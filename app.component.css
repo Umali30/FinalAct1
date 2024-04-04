@@ -1,0 +1,27 @@
+/*
+*/
+
+.active{ 
+    background: 'light-gray' 
+}
+
+.mat-mdc-radio-button ~ .mat-mdc-radio-button {
+    margin-left: 16px;
+}
+
+  
+mat-slider {
+    width: 390px;
+    left: 50vh;
+    right: 50vh;
+}
+
+.mat-card ~ .mat-card-content{
+    margin-right: 100px;
+}
+
+mat-paginator {
+    width: 120vh;
+    left: 50vh;
+    right: 50vh;
+}
